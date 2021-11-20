@@ -125,4 +125,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Inspiration
 Cut Paste Developed By [Ravidu Yasas](https://t.me/darkz_hacker_devil)...
 
-[![For Vaza](https://telegra.ph/file/4c63881a859f152bb323f.jpg)]
+![For Vaza](https://telegra.ph/file/4c63881a859f152bb323f.jpg)
