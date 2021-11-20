@@ -5,7 +5,7 @@ Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'>Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊</a>
 ©️ Powered By <a href="https://t.me/media_bot_updates">Bᴏᴛ Sʜᴀᴅᴏᴡ ♾</a>"""
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
-    ABOUT_TXT = """☑️ 𝙼𝚈 𝙽𝙰𝙼𝙴: Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊
+    ABOUT_TXT = """☑️ Mʏ Nᴀᴍᴇ : Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊
 ☑️ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil">Rᴀᴠɪᴅᴜ Yᴀsᴀs</a>
 ☑️ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
 ☑️ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
