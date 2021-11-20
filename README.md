@@ -108,7 +108,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/media_bot_updates)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://t.me/media_bot_updates)
 
 
 ## Thanks to 
