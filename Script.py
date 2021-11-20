@@ -5,14 +5,14 @@ Mʏ Nᴀᴍᴇ Is <a href='https://t.me/{}'>Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊</a>
 ©️ Powered By <a href="https://t.me/media_bot_updates">Bᴏᴛ Sʜᴀᴅᴏᴡ ♾</a>"""
     HELP_TXT = """Hᴇʏ {}
 Aʀᴇ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Pʀᴏʙʟᴇᴍ. Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.☺️😛"""
-    ABOUT_TXT = """☑️ Mʏ Nᴀᴍᴇ : Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊
-☑️ Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil">Rᴀᴠɪᴅᴜ Yᴀsᴀs</a>
-☑️ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
-☑️ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
-☑️ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
-☑️ Bᴏᴛ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
-☑️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
-☑️ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
+    ABOUT_TXT = """🔅 Mʏ Nᴀᴍᴇ : Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊
+🔅 Cʀᴇᴀᴛᴏʀ : 🧑‍💻<a href="https://t.me/darkz_hacker_devil">Rᴀᴠɪᴅᴜ Yᴀsᴀs</a>
+🔅 Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
+🔅 Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3
+🔅 Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ DB
+🔅 Bᴏᴛ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
+🔅 Bᴜɪʟᴅ Sᴛᴀᴛᴜs : v1.0.1 [ Bᴇᴛᴀ ]
+🔅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : 🔐"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Mᴏᴠɪᴇs Fɪɴᴅᴇʀ 😊 is a Locked project. 
 - Source - 🔐
