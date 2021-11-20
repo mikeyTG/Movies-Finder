@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "MoviesDetectiveBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -18,7 +18,7 @@
     "repository": "https://github.com/MRK-YT/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "Your bot token.Take it from @BotFather",
             "value": ""
         },
         "API_ID": {
@@ -56,7 +56,7 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "value": "-1001625816444",
             "required": false
         },   
         "USE_CAPTION_FILTER": {
