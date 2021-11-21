@@ -26,6 +26,9 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🧑‍💻 Developer', url=f'https://t.me/darkz_hacker_devil'),
             ],[
+            InlineKeyboardButton('🎥 Films/TV Series', url=f'https://t.me/filmsandtvserieschannel'),
+            InlineKeyboardButton('📺 Sinhala Subtitles ', url=f'https://t.me/DATABASEFATSG')
+            ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
         ]]
