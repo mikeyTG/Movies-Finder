@@ -24,7 +24,6 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{EVAMARIABOT.username}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            ],[
             InlineKeyboardButton('🧑‍💻 Developer', url=f'https://t.me/darkz_hacker_devil'),
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
